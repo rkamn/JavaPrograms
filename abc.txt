@@ -1,1 +1,3 @@
 hi git. i have learned much about you today.
+
+Now i will directly push my work in the github using command : git add 
